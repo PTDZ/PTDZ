@@ -5,4 +5,4 @@
 
 #### Life after work
 
-[<i>ptdz.pl</i>](ptdz.pl) Graphic design | Nature photography | Drone pilot
+[<i>ptdz.pl</i>](ptdz.pl) Graphic design | Nature & wildlife photography
