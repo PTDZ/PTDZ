@@ -6,5 +6,5 @@ Here, I primarily share open-source code for simple plugins and scripts to suppo
 
 I navigate between two worlds — science & art, technology & nature — as my other great passion is [wildlife photography](https://ptdz.pl).
 
-[LinkedIn](https://www.linkedin.com/in/p-dzianok/) | [Google Scholar](https://scholar.google.pl/citations?user=qztyoNMAAAAJ)
+[LinkedIn](https://www.linkedin.com/in/p-dzianok/) | [Google Scholar](https://scholar.google.pl/citations?user=qztyoNMAAAAJ) | [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-6528-9568)
 
